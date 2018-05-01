@@ -7,6 +7,6 @@ This application keeps track of user oriented recipes and a shopping list. All o
 # NPM Install
 Run npm install for node_module imports.
 
-## Development server
+# Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
